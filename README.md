@@ -60,8 +60,6 @@ Zero manual work done
 |-------|----------|----------|
 | [Lead Qualifier Agent](agents/lead-generation/lead-qualifier-agent.md) | Real estate, insurance, EdTech | WhatsApp, Web |
 | [Follow-Up Agent](agents/lead-generation/follow-up-agent.md) | Sales teams, brokers | WhatsApp, Email |
-| [Property Enquiry Agent](agents/lead-generation/property-enquiry-agent.md) | Real estate developers, brokers | WhatsApp, Web |
-| [Insurance Lead Agent](agents/lead-generation/insurance-lead-agent.md) | Insurance agents, BFSI | WhatsApp, Telegram |
 
 ### 📅 Booking & Scheduling
 | Agent | Best For | Channels |
