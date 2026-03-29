@@ -82,14 +82,9 @@ Zero manual work done
 ### 🇮🇳 Indian Vertical Agents (Exclusive to FlowMind Labs)
 | Agent | Best For | Channels |
 |-------|----------|----------|
-| [GST & Invoice Agent](agents/indian-verticals/gst-invoice-agent.md) | MSMEs, freelancers | WhatsApp, Telegram |
-| [CA & Accountant Assistant](agents/indian-verticals/ca-assistant-agent.md) | CA firms, accounting agencies | WhatsApp, Telegram |
-| [School Parent Communication Agent](agents/indian-verticals/school-parent-agent.md) | Schools, coaching institutes | WhatsApp, Telegram |
 | [Healthcare Appointment Agent](agents/indian-verticals/healthcare-appointment-agent.md) | Hospitals, clinics, diagnostics | WhatsApp, Web |
-| [MSME Loan Enquiry Agent](agents/indian-verticals/msme-loan-agent.md) | NBFCs, banks, MSME lenders | WhatsApp, Web |
+| [School Parent Communication Agent](agents/indian-verticals/school-parent-agent.md) | Schools, coaching institutes | WhatsApp, Telegram |
 | [Kirana & Grocery Order Agent](agents/indian-verticals/kirana-order-agent.md) | Kirana stores, local grocery | WhatsApp |
-| [Matrimony Enquiry Agent](agents/indian-verticals/matrimony-agent.md) | Matrimony agencies | WhatsApp, Telegram |
-| [Cricket & Sports Academy Agent](agents/indian-verticals/sports-academy-agent.md) | Sports academies, clubs | WhatsApp, Telegram |
 
 ### 🏢 Enterprise
 | Agent | Best For | Channels |
