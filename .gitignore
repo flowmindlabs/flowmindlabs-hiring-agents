@@ -1,0 +1,17 @@
+# Environment files
+.env
+.env.*
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+
+# Internal documents
+*-INTERNAL.md
+*-private.md
