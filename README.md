@@ -175,7 +175,7 @@ AI-powered app for parents of children with special needs.
 Daily routines, AI behavior guide, life skills training — in English and Hindi.
 **Launching April 2026** → [littlewinn.com](https://littlewinn.com)
 
-### MinturaI
+### Minturai
 Coming soon.
 
 ---
@@ -222,10 +222,6 @@ Yes. Contact us at flowmindlabs.co with your use case.
 | Channel | Link |
 |---------|------|
 | 🌐 Website | [flowmindlabs.co](https://flowmindlabs.co) |
-| 💬 WhatsApp | [Chat with us](https://flowmindlabs.co/whatsapp) |
-| 📧 Email | hello@flowmindlabs.co |
-| 🐦 X (Twitter) | [@flowmindlabs](https://x.com/flowmindlabs) |
-| 💼 LinkedIn | [FlowMind Labs](https://linkedin.com/company/flowmindlabs) |
 | 🐙 GitHub | [github.com/flowmindlabs](https://github.com/flowmindlabs) |
 
 ---
