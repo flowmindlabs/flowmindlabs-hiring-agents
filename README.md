@@ -103,27 +103,9 @@ Zero manual work done
 
 ## Real-World Examples
 
-### Ravi's Restaurant — Mumbai
-> *"Before FlowMind Labs, I spent 2 hours daily answering the same WhatsApp questions. Now the agent handles bookings, menu queries, and confirmations automatically. I focus on cooking."*
+Case studies coming soon. We are onboarding our first clients now.
 
-**Agents deployed:** Table Booking + FAQ + Review Request
-**Result:** Zero missed bookings. 2 hours saved daily. ₹4,999/month.
-
----
-
-### Priya's Coaching Institute — Bangalore
-> *"Parents used to call at all hours asking about batches, fees, and schedules. Now the agent answers everything in Hindi and English — even at midnight."*
-
-**Agents deployed:** Class Booking + School Parent Communication + FAQ
-**Result:** 80% reduction in calls. Parents happier. Staff freed up.
-
----
-
-### Dr. Sharma's Clinic — Delhi
-> *"Appointment booking used to require a receptionist. Now patients book via WhatsApp 24/7. Our no-show rate dropped because the agent sends reminders automatically."*
-
-**Agents deployed:** Healthcare Appointment + Follow-Up + Review Request
-**Result:** 40% reduction in no-shows. Fully booked calendar.
+[Get in touch](https://flowmindlabs.co) to be one of our early clients.
 
 ---
 
@@ -198,9 +180,15 @@ Coming soon.
 
 ---
 
+## Website
+
+**[flowmindlabs.co](https://flowmindlabs.co)** — visit us. More features and content coming soon.
+
+---
+
 ## Case Studies
 
-- [LittleWinn — AI App for Special Needs Families](case-studies/littlewinn.md)
+- [LittleWinn — AI App for Children with Special Needs](case-studies/littlewinn.md)
 
 ---
 
