@@ -164,12 +164,12 @@ We monitor and maintain
 We don't just build for clients — we build our own AI products too.
 
 ### LittleWinn
-AI-powered app for parents of children with special needs.
+LittleWinn PWA — AI-powered app for parents of special-needs children, built with React + FastAPI + MongoDB + Claude + Gemini.
 Daily routines, AI behavior guide, life skills training — in English and Hindi.
 **Launching April 2026** → [littlewinn.com](https://littlewinn.com)
 
 ### Minturai
-Coming soon.
+Minturai — AI-driven digital marketing automation platform for Indian SMBs.
 
 ---
 
@@ -181,7 +181,8 @@ Coming soon.
 
 ## Case Studies
 
-- [LittleWinn — AI App for Children with Special Needs](case-studies/littlewinn.md)
+- [LittleWinn PWA — AI-powered app for parents of special-needs children, built with React + FastAPI + MongoDB + Claude + Gemini](case-studies/littlewinn.md)
+- Minturai — AI-driven digital marketing automation platform for Indian SMBs
 
 ---
 
