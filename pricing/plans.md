@@ -97,9 +97,10 @@ Bank / hospital / government / large corp?
 
 👉 [flowmindlabs.co/hire](https://flowmindlabs.co/hire)
 📧 hello@flowmindlabs.co
-💬 WhatsApp us at [your number]
+💬 WhatsApp us at contact@flowmindlabs.co
 
 ---
 
 *Prices are in Indian Rupees (INR) and exclusive of GST.*
 *© 2026 FlowMind Labs*
+
