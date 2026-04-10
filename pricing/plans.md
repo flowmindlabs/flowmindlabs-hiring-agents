@@ -1,4 +1,4 @@
-# FlowMind Labs — Pricing Plans
+﻿# FlowMind Labs — Pricing Plans
 
 > All plans include setup, hosting, WhatsApp Business API, maintenance, and support.
 > No hidden fees. No technical knowledge required.
@@ -97,10 +97,11 @@ Bank / hospital / government / large corp?
 
 👉 [flowmindlabs.co/hire](https://flowmindlabs.co/hire)
 📧 hello@flowmindlabs.co
-💬 WhatsApp us at contact@flowmindlabs.co
+💬 WhatsApp us at [your WhatsApp number]
 
 ---
 
 *Prices are in Indian Rupees (INR) and exclusive of GST.*
 *© 2026 FlowMind Labs*
+
 
